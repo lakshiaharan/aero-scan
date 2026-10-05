@@ -1,5 +1,5 @@
-# defect_detector.py — Person 1's shared inference interface (Step 7)
-# Person 3's dashboard + the fusion layer import detect() from here.
+# defect_detector.py — Optical Perception Inference Core (YOLOv11 INT8)
+# Team AeroNauts // Tata Technologies InnoVent Stage 02
 from pathlib import Path
 from ultralytics import YOLO
 
